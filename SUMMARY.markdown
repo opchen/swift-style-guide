@@ -1,4 +1,4 @@
 # Summary
 
-* Content[content.markdown]
+* Content
 
